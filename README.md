@@ -121,7 +121,7 @@ I wrote and adjusted the project myself while using the feedback to understand w
 ## Links
 
 - Solution URL: **Add your Frontend Mentor solution URL here**
-- Live Site URL: **Add your live project URL here**
+- Live Site URL: https://anwar-9112.github.io/product-preview-card-component-main/
 
 ## Author
 

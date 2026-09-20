@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](#)
-- Live Site URL: [Add live site URL here](#)
+- Live Site URL: [https://anwar-9112.github.io/product-preview-card-component-main/](#)
 
 ## My process
 
